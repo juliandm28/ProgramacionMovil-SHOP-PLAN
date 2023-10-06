@@ -1,0 +1,35 @@
+# Carpeta node_modules generada por npm/yarn
+node_modules/
+
+# Archivos generados por las herramientas de compilación
+/build
+/dist
+
+# Archivos de desarrollo generados por tu IDE
+.idea/
+.vscode/
+
+# Archivos de configuración locales
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Archivos de registro y caché
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos temporales generados durante el desarrollo
+*.log
+*.pid
+*.swp
+
+# Archivos de dependencias específicos del sistema (por ejemplo, MacOS)
+.DS_Store
+
+# Archivo de bloqueo de Yarn
+yarn.lock
+
+# Archivo de bloqueo de npm
+package-lock.json
